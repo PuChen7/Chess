@@ -6,6 +6,6 @@ The program can be implemented in the Terminal. Compiling Chess.java will start 
 
 The program runs like following imgaes:
 
-<img src = "https://github.com/PuChen7/Chess/blob/master/image/run1.jpeg">
+<img src = "https://github.com/PuChen7/Chess/blob/master/image/run1.jpeg" width="70%" height="70%">
 
-<img src = "https://github.com/PuChen7/Chess/blob/master/image/run2.jpeg">
+<img src = "https://github.com/PuChen7/Chess/blob/master/image/run2.jpeg" width="70%" height="70%">
