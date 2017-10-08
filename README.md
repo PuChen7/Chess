@@ -6,6 +6,6 @@ The program can be implemented in the Terminal. Compiling Chess.java will start 
 
 The program runs like following imgaes:
 
-![Program Running Sample](/image/run1.jpeg =60*60)
+![Program Running Sample](/image/run1.jpeg width="60" height="60")
 
-![Program Running Sample](/image/run2.jpeg =60*60)
+![Program Running Sample](/image/run2.jpeg width="60" height="60")
